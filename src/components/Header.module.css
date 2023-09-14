@@ -1,0 +1,34 @@
+.header{
+    background-color:#6E5840;
+    width: 100%;
+    min-height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.link{
+    display: flex;
+    gap: 5px;
+    color: #FFC17A;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.link * >{
+    margin: 10px;
+}
+
+.button{
+    display: flex;
+    gap: 10px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #6e5840;
+    color:#FFC17A;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+}
+

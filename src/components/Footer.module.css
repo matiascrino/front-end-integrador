@@ -1,0 +1,16 @@
+.footer{
+    background-color:#6E5840;
+    min-height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.span{
+    color: #FFC17A;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}

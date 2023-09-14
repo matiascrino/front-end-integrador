@@ -1,0 +1,27 @@
+.main{
+    width: 100%;
+    min-height: 80vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color:  #FFC17A;
+    gap: 16px;
+}
+
+.mainDark{
+    width: 100%;
+    min-height: 80vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: hsl(30, 70%, 40%);
+    gap: 16px;
+}

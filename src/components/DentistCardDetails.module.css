@@ -1,0 +1,30 @@
+.cardDetails {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    text-align: center;
+    padding: 20px;
+}
+
+.cardDetails img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.cardDetails h2 {
+    margin-top: 10px;
+}
+
+.cardDetails p {
+    margin: 5px 0;
+}
+
+.cardDetails a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.cardDetails a:hover {
+    text-decoration: underline;
+}
